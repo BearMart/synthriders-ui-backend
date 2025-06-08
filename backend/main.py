@@ -30,7 +30,7 @@ async def upload_audio(file: UploadFile = File(...)):
 
 
 # ✅ New: /package/ route for auto-zipping to .synth
-@app.post("/package/")
+@app.post("/package/", summary="Package Synth", description="Returns a zipped .synth file")
 async def package_synth(mp3: UploadFile = File(...), json: UploadFile = File(...), cover: UploadFile = File(None)):
     temp_dir = Path(tempfile.mkdtemp())
     base_name = mp3.filename.rsplit('.', 1)[0].replace(" ", "_")
