@@ -9,6 +9,7 @@ import uuid
 
 from backend.audio_utils import analyze_audio
 from backend.map_generator import generate_map
+from backend.beatmap_compiler import build_beatmap_meta_bin  # ✅ ADD THIS LINE
 
 app = FastAPI()
 
@@ -29,7 +30,7 @@ async def upload_audio(file: UploadFile = File(...)):
     return FileResponse(output_path, filename=os.path.basename(output_path))
 
 
-# ✅ New: /package/ route for auto-zipping to .synth
+# ✅ Updated /package/ route with beatmap.meta.bin support
 @app.post("/package/", summary="Package Synth", description="Returns a zipped .synth file")
 async def package_synth(mp3: UploadFile = File(...), json: UploadFile = File(...), cover: UploadFile = File(None)):
     temp_dir = Path(tempfile.mkdtemp())
@@ -47,6 +48,12 @@ async def package_synth(mp3: UploadFile = File(...), json: UploadFile = File(...
     track_path = synth_dir / "track.data.json"
     with open(track_path, "wb") as f:
         f.write(json_data)
+
+    # ✅ Add compiled beatmap.meta.bin
+    meta_bin_path = synth_dir / "beatmap.meta.bin"
+    meta_bin = build_beatmap_meta_bin(track_path)
+    with open(meta_bin_path, "wb") as f:
+        f.write(meta_bin)
 
     # Optional cover image
     if cover:
