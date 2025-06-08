@@ -27,7 +27,7 @@ def build_beatmap_meta_bin(
         "Author": artist_name,
         "Artwork": cover_image_name,
         "ArtworkBytes": cover_bytes,
-        "Notes": {difficulty: note_data},
+        "Notes": {difficulty: note_data["notes"]},  # ✅ FIXED HERE
         "Lights": {difficulty: []},
         "Squares": {difficulty: []},
         "Triangles": {difficulty: []},
@@ -42,7 +42,6 @@ def build_beatmap_meta_bin(
         "SongPreviewEndTime": 15.0
     }
 
-    # 🔥 THIS IS THE FIX: write binary, not text!
     binary_data = json.dumps(meta, indent=2).encode("utf-8-sig")
     with open(output_path, "wb") as f:
         f.write(binary_data)
