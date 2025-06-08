@@ -15,10 +15,14 @@ def build_beatmap_meta_bin(
     with open(track_data_path, "r", encoding="utf-8") as f:
         note_data = json.load(f)
 
-    # Load and encode cover image
-    cover_image_name = Path(cover_image_path).name
-    with open(cover_image_path, "rb") as img:
-        cover_bytes = base64.b64encode(img.read()).decode("utf-8")
+    # Load and encode cover image, if provided
+    if cover_image_path:
+        with open(cover_image_path, "rb") as img:
+            cover_bytes = base64.b64encode(img.read()).decode("utf-8")
+        cover_image_name = Path(cover_image_path).name
+    else:
+        cover_bytes = ""
+        cover_image_name = ""
 
     # Build the meta structure
     meta = {
