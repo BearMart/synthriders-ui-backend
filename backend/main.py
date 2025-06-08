@@ -2,10 +2,8 @@ from fastapi import FastAPI, UploadFile, File
 from fastapi.responses import FileResponse
 import os
 from pathlib import Path
-import shutil
 import tempfile
 import zipfile
-import uuid
 
 from backend.audio_utils import analyze_audio
 from backend.map_generator import generate_map
@@ -56,13 +54,15 @@ async def package_synth(mp3: UploadFile = File(...), json: UploadFile = File(...
             f.write(await cover.read())
 
     # ✅ Compile beatmap.meta.bin
+    song_name = base_name.replace("_", " ")
+    artist_name = "Uploaded via SynthRiderz AI"
     meta_bin_path = synth_dir / "beatmap.meta.bin"
     meta_bin = build_beatmap_meta_bin(
-        track_data_path=track_path,
-        cover_image_path=str(cover_path) if cover_path else "",
+        track_data_path=str(track_path),
+        cover_image_path=str(cover_path) if cover else "",
         output_path=str(meta_bin_path),
-        song_name=base_name.replace("_", " "),
-        artist_name="Uploaded via SynthRiderz AI"
+        song_name=song_name,
+        artist_name=artist_name
     )
     with open(meta_bin_path, "wb") as f:
         f.write(meta_bin)
