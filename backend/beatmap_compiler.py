@@ -11,11 +11,9 @@ def build_beatmap_meta_bin(
     difficulty: str = "Master",
     beatmapper: str = "AutoSynth"
 ):
-    # Load note data from track.data.json
     with open(track_data_path, "r", encoding="utf-8") as f:
         note_data = json.load(f)
 
-    # Load and encode cover image, if provided
     if cover_image_path:
         with open(cover_image_path, "rb") as img:
             cover_bytes = base64.b64encode(img.read()).decode("utf-8")
@@ -24,7 +22,6 @@ def build_beatmap_meta_bin(
         cover_bytes = ""
         cover_image_name = ""
 
-    # Build the meta structure
     meta = {
         "Name": song_name,
         "Author": artist_name,
@@ -45,8 +42,7 @@ def build_beatmap_meta_bin(
         "SongPreviewEndTime": 15.0
     }
 
-    # Write to beatmap.meta.bin (UTF-8 with BOM)
-    with open(output_path, "w", encoding="utf-8-sig") as f:
-        json.dump(meta, f, indent=2)
-
-    print(f"✅ beatmap.meta.bin written to: {output_path}")
+    # 🔥 THIS IS THE FIX: write binary, not text!
+    binary_data = json.dumps(meta, indent=2).encode("utf-8-sig")
+    with open(output_path, "wb") as f:
+        f.write(binary_data)
