@@ -3,7 +3,7 @@ import base64
 from pathlib import Path
 
 def build_beatmap_meta_bin(
-    track_json_path: str,
+    track_data_path: str,
     cover_image_path: str,
     output_path: str,
     song_name: str,
@@ -12,7 +12,7 @@ def build_beatmap_meta_bin(
     beatmapper: str = "AutoSynth"
 ):
     # Load note data from track.data.json
-    with open(track_json_path, "r", encoding="utf-8") as f:
+    with open(track_data_path, "r", encoding="utf-8") as f:
         note_data = json.load(f)
 
     # Load and encode cover image
