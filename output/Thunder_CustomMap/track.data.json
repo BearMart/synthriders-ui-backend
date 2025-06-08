@@ -1,0 +1,3813 @@
+{
+  "bpm": 129,
+  "notes": [
+    {
+      "time": 1.254,
+      "position": [
+        -1,
+        2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 1.741,
+      "position": [
+        5,
+        -1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 2.252,
+      "position": [
+        5,
+        1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 2.717,
+      "position": [
+        -3,
+        -1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 3.181,
+      "position": [
+        -4,
+        -2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 3.599,
+      "position": [
+        -2,
+        0
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 4.063,
+      "position": [
+        5,
+        2
+      ],
+      "type": "note"
+    },
+    {
+      "time": 4.551,
+      "position": [
+        4,
+        2
+      ],
+      "type": "note"
+    },
+    {
+      "time": 5.039,
+      "position": [
+        -3,
+        -1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 5.503,
+      "position": [
+        -2,
+        2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 5.968,
+      "position": [
+        2,
+        0
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 6.432,
+      "position": [
+        -1,
+        2
+      ],
+      "type": "note"
+    },
+    {
+      "time": 6.896,
+      "position": [
+        5,
+        -1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 7.361,
+      "position": [
+        3,
+        2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 7.825,
+      "position": [
+        -5,
+        2
+      ],
+      "type": "note"
+    },
+    {
+      "time": 8.29,
+      "position": [
+        2,
+        2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 8.777,
+      "position": [
+        -1,
+        2
+      ],
+      "type": "note"
+    },
+    {
+      "time": 9.288,
+      "position": [
+        -5,
+        1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 9.822,
+      "position": [
+        -4,
+        -1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 10.263,
+      "position": [
+        -2,
+        -2
+      ],
+      "type": "note"
+    },
+    {
+      "time": 10.704,
+      "position": [
+        -1,
+        1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 11.192,
+      "position": [
+        5,
+        2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 11.656,
+      "position": [
+        3,
+        -1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 12.121,
+      "position": [
+        -5,
+        0
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 12.562,
+      "position": [
+        5,
+        2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 13.003,
+      "position": [
+        -3,
+        -2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 13.444,
+      "position": [
+        2,
+        -1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 13.886,
+      "position": [
+        -2,
+        1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 14.327,
+      "position": [
+        -5,
+        0
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 14.768,
+      "position": [
+        -5,
+        0
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 15.209,
+      "position": [
+        4,
+        0
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 15.697,
+      "position": [
+        -2,
+        0
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 16.184,
+      "position": [
+        0,
+        0
+      ],
+      "type": "note"
+    },
+    {
+      "time": 16.672,
+      "position": [
+        4,
+        2
+      ],
+      "type": "note"
+    },
+    {
+      "time": 17.136,
+      "position": [
+        -2,
+        -1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 17.601,
+      "position": [
+        4,
+        2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 18.065,
+      "position": [
+        -3,
+        -1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 18.53,
+      "position": [
+        -2,
+        1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 19.017,
+      "position": [
+        -1,
+        -1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 19.482,
+      "position": [
+        -2,
+        -2
+      ],
+      "type": "note"
+    },
+    {
+      "time": 19.969,
+      "position": [
+        -2,
+        -1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 20.434,
+      "position": [
+        -1,
+        -1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 20.898,
+      "position": [
+        1,
+        0
+      ],
+      "type": "note"
+    },
+    {
+      "time": 21.386,
+      "position": [
+        3,
+        2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 21.85,
+      "position": [
+        -4,
+        -1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 22.314,
+      "position": [
+        -4,
+        0
+      ],
+      "type": "note"
+    },
+    {
+      "time": 22.802,
+      "position": [
+        1,
+        0
+      ],
+      "type": "note"
+    },
+    {
+      "time": 23.266,
+      "position": [
+        5,
+        -2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 23.731,
+      "position": [
+        4,
+        -1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 24.218,
+      "position": [
+        3,
+        -2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 24.683,
+      "position": [
+        -5,
+        2
+      ],
+      "type": "note"
+    },
+    {
+      "time": 25.17,
+      "position": [
+        -4,
+        -1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 25.635,
+      "position": [
+        -5,
+        1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 26.099,
+      "position": [
+        5,
+        -2
+      ],
+      "type": "note"
+    },
+    {
+      "time": 26.564,
+      "position": [
+        -3,
+        -1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 27.051,
+      "position": [
+        5,
+        1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 27.516,
+      "position": [
+        5,
+        1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 27.98,
+      "position": [
+        3,
+        0
+      ],
+      "type": "note"
+    },
+    {
+      "time": 28.444,
+      "position": [
+        4,
+        0
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 28.932,
+      "position": [
+        -2,
+        2
+      ],
+      "type": "note"
+    },
+    {
+      "time": 29.42,
+      "position": [
+        2,
+        -2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 29.884,
+      "position": [
+        5,
+        -1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 30.348,
+      "position": [
+        1,
+        1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 30.836,
+      "position": [
+        1,
+        0
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 31.3,
+      "position": [
+        -1,
+        2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 31.765,
+      "position": [
+        -2,
+        -2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 32.253,
+      "position": [
+        0,
+        0
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 32.717,
+      "position": [
+        5,
+        -2
+      ],
+      "type": "note"
+    },
+    {
+      "time": 33.205,
+      "position": [
+        -2,
+        0
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 33.669,
+      "position": [
+        5,
+        -1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 34.133,
+      "position": [
+        1,
+        0
+      ],
+      "type": "note"
+    },
+    {
+      "time": 34.598,
+      "position": [
+        -4,
+        2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 35.085,
+      "position": [
+        3,
+        0
+      ],
+      "type": "note"
+    },
+    {
+      "time": 35.55,
+      "position": [
+        -1,
+        2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 36.014,
+      "position": [
+        -3,
+        1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 36.502,
+      "position": [
+        2,
+        -1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 36.966,
+      "position": [
+        -1,
+        0
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 37.454,
+      "position": [
+        -3,
+        1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 37.918,
+      "position": [
+        0,
+        -2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 38.383,
+      "position": [
+        4,
+        0
+      ],
+      "type": "note"
+    },
+    {
+      "time": 38.87,
+      "position": [
+        -3,
+        -1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 39.335,
+      "position": [
+        4,
+        0
+      ],
+      "type": "note"
+    },
+    {
+      "time": 39.799,
+      "position": [
+        1,
+        1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 40.287,
+      "position": [
+        -2,
+        0
+      ],
+      "type": "note"
+    },
+    {
+      "time": 40.751,
+      "position": [
+        3,
+        2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 41.215,
+      "position": [
+        4,
+        -2
+      ],
+      "type": "note"
+    },
+    {
+      "time": 41.703,
+      "position": [
+        -3,
+        -2
+      ],
+      "type": "note"
+    },
+    {
+      "time": 42.167,
+      "position": [
+        0,
+        0
+      ],
+      "type": "note"
+    },
+    {
+      "time": 42.632,
+      "position": [
+        -4,
+        1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 43.119,
+      "position": [
+        0,
+        -2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 43.584,
+      "position": [
+        2,
+        -1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 44.071,
+      "position": [
+        -2,
+        -1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 44.536,
+      "position": [
+        5,
+        -1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 45.0,
+      "position": [
+        -2,
+        1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 45.488,
+      "position": [
+        3,
+        -1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 45.952,
+      "position": [
+        -4,
+        1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 46.417,
+      "position": [
+        -5,
+        -2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 46.881,
+      "position": [
+        -2,
+        0
+      ],
+      "type": "note"
+    },
+    {
+      "time": 47.369,
+      "position": [
+        -4,
+        1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 47.833,
+      "position": [
+        5,
+        1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 48.298,
+      "position": [
+        0,
+        -2
+      ],
+      "type": "note"
+    },
+    {
+      "time": 48.785,
+      "position": [
+        -3,
+        0
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 49.25,
+      "position": [
+        5,
+        0
+      ],
+      "type": "note"
+    },
+    {
+      "time": 49.714,
+      "position": [
+        -1,
+        1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 50.202,
+      "position": [
+        5,
+        0
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 50.666,
+      "position": [
+        -2,
+        2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 51.154,
+      "position": [
+        2,
+        -1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 51.618,
+      "position": [
+        0,
+        1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 52.082,
+      "position": [
+        3,
+        1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 52.547,
+      "position": [
+        3,
+        -2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 53.034,
+      "position": [
+        3,
+        1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 53.499,
+      "position": [
+        3,
+        2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 53.986,
+      "position": [
+        -3,
+        2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 54.451,
+      "position": [
+        2,
+        -1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 54.915,
+      "position": [
+        3,
+        1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 55.403,
+      "position": [
+        3,
+        1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 55.867,
+      "position": [
+        3,
+        1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 56.332,
+      "position": [
+        2,
+        0
+      ],
+      "type": "note"
+    },
+    {
+      "time": 56.819,
+      "position": [
+        3,
+        2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 57.284,
+      "position": [
+        -5,
+        -1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 57.748,
+      "position": [
+        5,
+        0
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 58.236,
+      "position": [
+        3,
+        2
+      ],
+      "type": "note"
+    },
+    {
+      "time": 58.7,
+      "position": [
+        1,
+        1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 59.188,
+      "position": [
+        -3,
+        2
+      ],
+      "type": "note"
+    },
+    {
+      "time": 59.652,
+      "position": [
+        -3,
+        1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 60.116,
+      "position": [
+        -4,
+        0
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 60.558,
+      "position": [
+        5,
+        2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 60.999,
+      "position": [
+        -4,
+        0
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 61.51,
+      "position": [
+        -4,
+        1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 61.974,
+      "position": [
+        4,
+        1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 62.462,
+      "position": [
+        2,
+        1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 62.856,
+      "position": [
+        -1,
+        -1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 63.251,
+      "position": [
+        -1,
+        -1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 63.669,
+      "position": [
+        1,
+        1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 64.134,
+      "position": [
+        5,
+        2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 64.598,
+      "position": [
+        4,
+        -1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 65.086,
+      "position": [
+        2,
+        -2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 65.55,
+      "position": [
+        4,
+        -1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 66.038,
+      "position": [
+        -2,
+        -1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 66.502,
+      "position": [
+        2,
+        0
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 66.966,
+      "position": [
+        1,
+        -2
+      ],
+      "type": "note"
+    },
+    {
+      "time": 67.431,
+      "position": [
+        2,
+        2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 67.918,
+      "position": [
+        2,
+        -2
+      ],
+      "type": "note"
+    },
+    {
+      "time": 68.383,
+      "position": [
+        -3,
+        1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 68.847,
+      "position": [
+        -2,
+        0
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 69.335,
+      "position": [
+        1,
+        1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 69.799,
+      "position": [
+        0,
+        -2
+      ],
+      "type": "note"
+    },
+    {
+      "time": 70.287,
+      "position": [
+        3,
+        -1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 70.751,
+      "position": [
+        -2,
+        -2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 71.216,
+      "position": [
+        4,
+        2
+      ],
+      "type": "note"
+    },
+    {
+      "time": 71.703,
+      "position": [
+        -4,
+        1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 72.168,
+      "position": [
+        -1,
+        2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 72.632,
+      "position": [
+        -2,
+        -2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 73.12,
+      "position": [
+        3,
+        -1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 73.584,
+      "position": [
+        4,
+        -1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 74.048,
+      "position": [
+        -3,
+        -2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 74.536,
+      "position": [
+        3,
+        1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 75.0,
+      "position": [
+        0,
+        2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 75.465,
+      "position": [
+        -4,
+        0
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 75.952,
+      "position": [
+        3,
+        2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 76.417,
+      "position": [
+        4,
+        1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 76.881,
+      "position": [
+        -5,
+        -2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 77.369,
+      "position": [
+        4,
+        2
+      ],
+      "type": "note"
+    },
+    {
+      "time": 77.833,
+      "position": [
+        2,
+        0
+      ],
+      "type": "note"
+    },
+    {
+      "time": 78.321,
+      "position": [
+        -5,
+        0
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 78.785,
+      "position": [
+        2,
+        0
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 79.25,
+      "position": [
+        -4,
+        1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 79.714,
+      "position": [
+        -5,
+        2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 80.202,
+      "position": [
+        -5,
+        -2
+      ],
+      "type": "note"
+    },
+    {
+      "time": 80.666,
+      "position": [
+        -3,
+        0
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 81.131,
+      "position": [
+        -4,
+        0
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 81.618,
+      "position": [
+        2,
+        0
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 82.083,
+      "position": [
+        5,
+        -2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 82.547,
+      "position": [
+        -2,
+        0
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 83.035,
+      "position": [
+        -4,
+        -1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 83.499,
+      "position": [
+        -2,
+        0
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 83.987,
+      "position": [
+        -3,
+        -1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 84.451,
+      "position": [
+        3,
+        1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 84.915,
+      "position": [
+        2,
+        -2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 85.403,
+      "position": [
+        2,
+        -1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 85.867,
+      "position": [
+        -2,
+        2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 86.332,
+      "position": [
+        1,
+        -2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 86.819,
+      "position": [
+        5,
+        1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 87.284,
+      "position": [
+        -4,
+        -2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 87.748,
+      "position": [
+        5,
+        1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 88.236,
+      "position": [
+        -5,
+        -1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 88.7,
+      "position": [
+        3,
+        -2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 89.165,
+      "position": [
+        2,
+        -1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 89.652,
+      "position": [
+        -4,
+        -2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 90.117,
+      "position": [
+        -3,
+        1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 90.604,
+      "position": [
+        2,
+        -2
+      ],
+      "type": "note"
+    },
+    {
+      "time": 91.069,
+      "position": [
+        1,
+        2
+      ],
+      "type": "note"
+    },
+    {
+      "time": 91.533,
+      "position": [
+        0,
+        2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 91.997,
+      "position": [
+        4,
+        -1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 92.485,
+      "position": [
+        5,
+        2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 92.949,
+      "position": [
+        -2,
+        1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 93.414,
+      "position": [
+        0,
+        -1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 93.901,
+      "position": [
+        0,
+        0
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 94.366,
+      "position": [
+        -1,
+        1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 94.83,
+      "position": [
+        -5,
+        0
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 95.318,
+      "position": [
+        0,
+        1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 95.782,
+      "position": [
+        -1,
+        1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 96.247,
+      "position": [
+        5,
+        1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 96.734,
+      "position": [
+        4,
+        0
+      ],
+      "type": "note"
+    },
+    {
+      "time": 97.199,
+      "position": [
+        -2,
+        0
+      ],
+      "type": "note"
+    },
+    {
+      "time": 97.686,
+      "position": [
+        3,
+        1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 98.151,
+      "position": [
+        2,
+        -2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 98.615,
+      "position": [
+        1,
+        -2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 99.103,
+      "position": [
+        4,
+        0
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 99.567,
+      "position": [
+        3,
+        -2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 100.032,
+      "position": [
+        -5,
+        -1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 100.519,
+      "position": [
+        -4,
+        0
+      ],
+      "type": "note"
+    },
+    {
+      "time": 100.984,
+      "position": [
+        0,
+        -1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 101.448,
+      "position": [
+        0,
+        -1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 101.936,
+      "position": [
+        -5,
+        1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 102.4,
+      "position": [
+        5,
+        -1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 102.864,
+      "position": [
+        1,
+        -2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 103.352,
+      "position": [
+        3,
+        -2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 103.816,
+      "position": [
+        -2,
+        -1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 104.281,
+      "position": [
+        3,
+        -1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 104.768,
+      "position": [
+        -1,
+        2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 105.233,
+      "position": [
+        -5,
+        -1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 105.72,
+      "position": [
+        0,
+        -2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 106.185,
+      "position": [
+        -4,
+        1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 106.649,
+      "position": [
+        -4,
+        -2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 107.114,
+      "position": [
+        0,
+        0
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 107.601,
+      "position": [
+        -3,
+        0
+      ],
+      "type": "note"
+    },
+    {
+      "time": 108.089,
+      "position": [
+        -2,
+        -2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 108.53,
+      "position": [
+        -2,
+        2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 109.018,
+      "position": [
+        -1,
+        1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 109.505,
+      "position": [
+        2,
+        -2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 109.993,
+      "position": [
+        -3,
+        -1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 110.481,
+      "position": [
+        -4,
+        -2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 110.922,
+      "position": [
+        3,
+        -2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 111.386,
+      "position": [
+        0,
+        -1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 111.874,
+      "position": [
+        2,
+        0
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 112.338,
+      "position": [
+        -5,
+        1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 112.803,
+      "position": [
+        0,
+        -2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 113.267,
+      "position": [
+        -4,
+        2
+      ],
+      "type": "note"
+    },
+    {
+      "time": 113.755,
+      "position": [
+        -5,
+        -1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 114.219,
+      "position": [
+        4,
+        0
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 114.66,
+      "position": [
+        -3,
+        -2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 115.171,
+      "position": [
+        -4,
+        -1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 115.635,
+      "position": [
+        1,
+        0
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 116.077,
+      "position": [
+        -3,
+        -2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 116.495,
+      "position": [
+        5,
+        -2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 117.029,
+      "position": [
+        2,
+        1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 117.516,
+      "position": [
+        -2,
+        -2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 117.981,
+      "position": [
+        4,
+        1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 118.468,
+      "position": [
+        -4,
+        0
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 118.933,
+      "position": [
+        0,
+        0
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 119.42,
+      "position": [
+        5,
+        1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 119.908,
+      "position": [
+        0,
+        0
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 120.372,
+      "position": [
+        3,
+        0
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 120.837,
+      "position": [
+        3,
+        0
+      ],
+      "type": "note"
+    },
+    {
+      "time": 121.301,
+      "position": [
+        -4,
+        -2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 121.742,
+      "position": [
+        -2,
+        0
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 122.23,
+      "position": [
+        1,
+        0
+      ],
+      "type": "note"
+    },
+    {
+      "time": 122.717,
+      "position": [
+        1,
+        0
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 123.205,
+      "position": [
+        -2,
+        -1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 123.693,
+      "position": [
+        -2,
+        -1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 124.157,
+      "position": [
+        4,
+        0
+      ],
+      "type": "note"
+    },
+    {
+      "time": 124.645,
+      "position": [
+        -1,
+        1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 125.109,
+      "position": [
+        2,
+        -2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 125.574,
+      "position": [
+        -3,
+        0
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 126.061,
+      "position": [
+        4,
+        2
+      ],
+      "type": "note"
+    },
+    {
+      "time": 126.526,
+      "position": [
+        0,
+        1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 126.99,
+      "position": [
+        -2,
+        -1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 127.454,
+      "position": [
+        -4,
+        -1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 127.919,
+      "position": [
+        1,
+        -2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 128.383,
+      "position": [
+        -4,
+        2
+      ],
+      "type": "note"
+    },
+    {
+      "time": 128.848,
+      "position": [
+        1,
+        -2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 129.289,
+      "position": [
+        -4,
+        0
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 129.776,
+      "position": [
+        3,
+        -2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 130.264,
+      "position": [
+        1,
+        1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 130.728,
+      "position": [
+        2,
+        -1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 131.193,
+      "position": [
+        2,
+        0
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 131.68,
+      "position": [
+        4,
+        1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 132.168,
+      "position": [
+        4,
+        2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 132.656,
+      "position": [
+        5,
+        1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 133.12,
+      "position": [
+        -1,
+        -1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 133.584,
+      "position": [
+        2,
+        -1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 134.049,
+      "position": [
+        2,
+        0
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 134.513,
+      "position": [
+        4,
+        1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 134.978,
+      "position": [
+        3,
+        -2
+      ],
+      "type": "note"
+    },
+    {
+      "time": 135.465,
+      "position": [
+        1,
+        1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 135.93,
+      "position": [
+        4,
+        1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 136.417,
+      "position": [
+        3,
+        -2
+      ],
+      "type": "note"
+    },
+    {
+      "time": 136.905,
+      "position": [
+        5,
+        -2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 137.369,
+      "position": [
+        0,
+        -1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 137.834,
+      "position": [
+        2,
+        1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 138.298,
+      "position": [
+        5,
+        2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 138.786,
+      "position": [
+        3,
+        2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 139.25,
+      "position": [
+        3,
+        0
+      ],
+      "type": "note"
+    },
+    {
+      "time": 139.738,
+      "position": [
+        0,
+        -1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 140.202,
+      "position": [
+        5,
+        2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 140.666,
+      "position": [
+        -5,
+        0
+      ],
+      "type": "note"
+    },
+    {
+      "time": 141.154,
+      "position": [
+        -5,
+        -2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 141.619,
+      "position": [
+        -5,
+        -2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 142.083,
+      "position": [
+        1,
+        0
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 142.571,
+      "position": [
+        2,
+        0
+      ],
+      "type": "note"
+    },
+    {
+      "time": 143.035,
+      "position": [
+        -3,
+        -1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 143.499,
+      "position": [
+        5,
+        -2
+      ],
+      "type": "note"
+    },
+    {
+      "time": 143.987,
+      "position": [
+        -3,
+        1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 144.451,
+      "position": [
+        4,
+        -2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 144.916,
+      "position": [
+        -4,
+        0
+      ],
+      "type": "note"
+    },
+    {
+      "time": 145.38,
+      "position": [
+        -2,
+        -2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 145.868,
+      "position": [
+        -1,
+        -2
+      ],
+      "type": "note"
+    },
+    {
+      "time": 146.355,
+      "position": [
+        4,
+        -2
+      ],
+      "type": "note"
+    },
+    {
+      "time": 146.82,
+      "position": [
+        -2,
+        0
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 147.284,
+      "position": [
+        2,
+        -2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 147.749,
+      "position": [
+        -4,
+        0
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 148.236,
+      "position": [
+        3,
+        -2
+      ],
+      "type": "note"
+    },
+    {
+      "time": 148.701,
+      "position": [
+        2,
+        -2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 149.165,
+      "position": [
+        5,
+        2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 149.653,
+      "position": [
+        -1,
+        -1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 150.117,
+      "position": [
+        -1,
+        -2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 150.605,
+      "position": [
+        1,
+        2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 151.069,
+      "position": [
+        -1,
+        0
+      ],
+      "type": "note"
+    },
+    {
+      "time": 151.533,
+      "position": [
+        1,
+        2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 152.021,
+      "position": [
+        1,
+        0
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 152.485,
+      "position": [
+        -5,
+        -2
+      ],
+      "type": "note"
+    },
+    {
+      "time": 152.95,
+      "position": [
+        2,
+        -1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 153.437,
+      "position": [
+        -5,
+        -2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 153.902,
+      "position": [
+        4,
+        0
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 154.366,
+      "position": [
+        1,
+        1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 154.854,
+      "position": [
+        -4,
+        2
+      ],
+      "type": "note"
+    },
+    {
+      "time": 155.318,
+      "position": [
+        1,
+        2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 155.783,
+      "position": [
+        -1,
+        -2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 156.27,
+      "position": [
+        0,
+        1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 156.735,
+      "position": [
+        -1,
+        -1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 157.199,
+      "position": [
+        5,
+        1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 157.687,
+      "position": [
+        1,
+        2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 158.151,
+      "position": [
+        1,
+        -1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 158.616,
+      "position": [
+        -5,
+        -1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 159.103,
+      "position": [
+        3,
+        2
+      ],
+      "type": "note"
+    },
+    {
+      "time": 159.568,
+      "position": [
+        1,
+        0
+      ],
+      "type": "note"
+    },
+    {
+      "time": 160.032,
+      "position": [
+        2,
+        -1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 160.52,
+      "position": [
+        -1,
+        -2
+      ],
+      "type": "note"
+    },
+    {
+      "time": 160.984,
+      "position": [
+        3,
+        0
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 161.448,
+      "position": [
+        2,
+        0
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 161.936,
+      "position": [
+        5,
+        0
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 162.4,
+      "position": [
+        -2,
+        1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 162.888,
+      "position": [
+        0,
+        0
+      ],
+      "type": "note"
+    },
+    {
+      "time": 163.352,
+      "position": [
+        -1,
+        -2
+      ],
+      "type": "note"
+    },
+    {
+      "time": 163.817,
+      "position": [
+        -4,
+        2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 164.304,
+      "position": [
+        4,
+        1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 164.769,
+      "position": [
+        -1,
+        2
+      ],
+      "type": "note"
+    },
+    {
+      "time": 165.233,
+      "position": [
+        2,
+        0
+      ],
+      "type": "note"
+    },
+    {
+      "time": 165.721,
+      "position": [
+        5,
+        1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 166.185,
+      "position": [
+        -2,
+        1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 166.65,
+      "position": [
+        0,
+        -1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 167.137,
+      "position": [
+        2,
+        -1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 167.602,
+      "position": [
+        1,
+        2
+      ],
+      "type": "note"
+    },
+    {
+      "time": 168.066,
+      "position": [
+        4,
+        0
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 168.554,
+      "position": [
+        -5,
+        -1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 169.018,
+      "position": [
+        -5,
+        -1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 169.482,
+      "position": [
+        0,
+        1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 169.97,
+      "position": [
+        3,
+        2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 170.434,
+      "position": [
+        4,
+        -2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 170.922,
+      "position": [
+        3,
+        0
+      ],
+      "type": "note"
+    },
+    {
+      "time": 171.386,
+      "position": [
+        -1,
+        2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 171.851,
+      "position": [
+        0,
+        0
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 172.315,
+      "position": [
+        2,
+        1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 172.803,
+      "position": [
+        3,
+        0
+      ],
+      "type": "note"
+    },
+    {
+      "time": 173.267,
+      "position": [
+        -3,
+        -1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 173.732,
+      "position": [
+        -5,
+        0
+      ],
+      "type": "note"
+    },
+    {
+      "time": 174.196,
+      "position": [
+        -5,
+        2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 174.684,
+      "position": [
+        5,
+        0
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 175.148,
+      "position": [
+        -3,
+        -1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 175.636,
+      "position": [
+        -5,
+        1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 176.1,
+      "position": [
+        1,
+        -1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 176.565,
+      "position": [
+        3,
+        -1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 177.052,
+      "position": [
+        -1,
+        -1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 177.517,
+      "position": [
+        5,
+        -2
+      ],
+      "type": "note"
+    },
+    {
+      "time": 178.004,
+      "position": [
+        -2,
+        -1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 178.469,
+      "position": [
+        -2,
+        -1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 178.933,
+      "position": [
+        4,
+        -2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 179.421,
+      "position": [
+        -1,
+        0
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 179.885,
+      "position": [
+        1,
+        -1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 180.349,
+      "position": [
+        -3,
+        1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 180.837,
+      "position": [
+        -1,
+        1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 181.301,
+      "position": [
+        4,
+        2
+      ],
+      "type": "note"
+    },
+    {
+      "time": 181.766,
+      "position": [
+        -5,
+        -1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 182.253,
+      "position": [
+        -4,
+        1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 182.718,
+      "position": [
+        0,
+        1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 183.182,
+      "position": [
+        2,
+        0
+      ],
+      "type": "note"
+    },
+    {
+      "time": 183.67,
+      "position": [
+        -2,
+        -1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 184.134,
+      "position": [
+        3,
+        -2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 184.599,
+      "position": [
+        5,
+        -1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 185.086,
+      "position": [
+        -3,
+        -1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 185.551,
+      "position": [
+        0,
+        0
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 186.015,
+      "position": [
+        4,
+        1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 186.503,
+      "position": [
+        2,
+        1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 186.967,
+      "position": [
+        -2,
+        -2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 187.431,
+      "position": [
+        0,
+        0
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 187.919,
+      "position": [
+        -2,
+        0
+      ],
+      "type": "note"
+    },
+    {
+      "time": 188.383,
+      "position": [
+        1,
+        -1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 188.871,
+      "position": [
+        4,
+        1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 189.336,
+      "position": [
+        -3,
+        -2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 189.8,
+      "position": [
+        2,
+        0
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 190.288,
+      "position": [
+        -5,
+        0
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 190.752,
+      "position": [
+        1,
+        -2
+      ],
+      "type": "note"
+    },
+    {
+      "time": 191.216,
+      "position": [
+        -1,
+        1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 191.704,
+      "position": [
+        -3,
+        2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 192.168,
+      "position": [
+        1,
+        -1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 192.633,
+      "position": [
+        -4,
+        1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 193.12,
+      "position": [
+        3,
+        -2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 193.585,
+      "position": [
+        -5,
+        2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 194.049,
+      "position": [
+        0,
+        1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 194.537,
+      "position": [
+        -5,
+        1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 195.001,
+      "position": [
+        3,
+        -2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 195.466,
+      "position": [
+        0,
+        2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 195.953,
+      "position": [
+        -3,
+        -1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 196.418,
+      "position": [
+        -1,
+        -2
+      ],
+      "type": "note"
+    },
+    {
+      "time": 196.882,
+      "position": [
+        4,
+        1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 197.37,
+      "position": [
+        -1,
+        2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 197.834,
+      "position": [
+        -5,
+        1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 198.298,
+      "position": [
+        2,
+        -2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 198.786,
+      "position": [
+        5,
+        1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 199.25,
+      "position": [
+        2,
+        -2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 199.715,
+      "position": [
+        -1,
+        -1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 200.202,
+      "position": [
+        3,
+        1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 200.667,
+      "position": [
+        -2,
+        0
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 201.131,
+      "position": [
+        -3,
+        0
+      ],
+      "type": "note"
+    },
+    {
+      "time": 201.619,
+      "position": [
+        2,
+        2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 202.083,
+      "position": [
+        4,
+        -2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 202.571,
+      "position": [
+        2,
+        0
+      ],
+      "type": "note"
+    },
+    {
+      "time": 203.035,
+      "position": [
+        -1,
+        -2
+      ],
+      "type": "note"
+    },
+    {
+      "time": 203.5,
+      "position": [
+        0,
+        -2
+      ],
+      "type": "note"
+    },
+    {
+      "time": 203.964,
+      "position": [
+        -5,
+        1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 204.452,
+      "position": [
+        -5,
+        -2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 204.916,
+      "position": [
+        2,
+        -1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 205.38,
+      "position": [
+        4,
+        2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 205.868,
+      "position": [
+        4,
+        -2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 206.333,
+      "position": [
+        -4,
+        0
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 206.82,
+      "position": [
+        4,
+        0
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 207.285,
+      "position": [
+        1,
+        0
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 207.749,
+      "position": [
+        -4,
+        1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 208.237,
+      "position": [
+        -4,
+        1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 208.701,
+      "position": [
+        -3,
+        0
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 209.165,
+      "position": [
+        3,
+        0
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 209.653,
+      "position": [
+        -2,
+        1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 210.117,
+      "position": [
+        -4,
+        2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 210.582,
+      "position": [
+        0,
+        -1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 211.069,
+      "position": [
+        3,
+        0
+      ],
+      "type": "note"
+    },
+    {
+      "time": 211.534,
+      "position": [
+        -4,
+        2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 211.998,
+      "position": [
+        5,
+        1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 212.486,
+      "position": [
+        -1,
+        2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 212.95,
+      "position": [
+        4,
+        1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 213.415,
+      "position": [
+        4,
+        0
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 213.809,
+      "position": [
+        5,
+        0
+      ],
+      "type": "note"
+    },
+    {
+      "time": 214.251,
+      "position": [
+        5,
+        0
+      ],
+      "type": "note"
+    },
+    {
+      "time": 214.668,
+      "position": [
+        -4,
+        1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 215.086,
+      "position": [
+        1,
+        1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 215.551,
+      "position": [
+        5,
+        0
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 216.015,
+      "position": [
+        0,
+        2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 216.503,
+      "position": [
+        5,
+        -2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 216.967,
+      "position": [
+        5,
+        2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 217.432,
+      "position": [
+        2,
+        0
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 217.919,
+      "position": [
+        5,
+        -2
+      ],
+      "type": "note"
+    },
+    {
+      "time": 218.384,
+      "position": [
+        -2,
+        -1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 218.848,
+      "position": [
+        2,
+        2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 219.336,
+      "position": [
+        -3,
+        -2
+      ],
+      "type": "note"
+    },
+    {
+      "time": 219.8,
+      "position": [
+        -1,
+        -2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 220.264,
+      "position": [
+        -5,
+        2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 220.752,
+      "position": [
+        5,
+        -1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 221.217,
+      "position": [
+        3,
+        -1
+      ],
+      "type": "note"
+    },
+    {
+      "time": 221.681,
+      "position": [
+        3,
+        1
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 222.169,
+      "position": [
+        -4,
+        0
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 222.633,
+      "position": [
+        1,
+        -2
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 223.097,
+      "position": [
+        -3,
+        -2
+      ],
+      "type": "note"
+    },
+    {
+      "time": 223.585,
+      "position": [
+        -1,
+        2
+      ],
+      "type": "tap"
+    },
+    {
+      "time": 224.049,
+      "position": [
+        5,
+        2
+      ],
+      "type": "note"
+    },
+    {
+      "time": 224.514,
+      "position": [
+        1,
+        1
+      ],
+      "type": "hold"
+    },
+    {
+      "time": 225.001,
+      "position": [
+        -4,
+        -2
+      ],
+      "type": "tap"
+    }
+  ]
+}
