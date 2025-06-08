@@ -9,7 +9,7 @@ import uuid
 
 from backend.audio_utils import analyze_audio
 from backend.map_generator import generate_map
-from backend.beatmap_compiler import build_beatmap_meta_bin  # ✅ ADD THIS LINE
+from backend.beatmap_compiler import build_beatmap_meta_bin  # ✅ Add this import
 
 app = FastAPI()
 
@@ -30,7 +30,6 @@ async def upload_audio(file: UploadFile = File(...)):
     return FileResponse(output_path, filename=os.path.basename(output_path))
 
 
-# ✅ Updated /package/ route with beatmap.meta.bin support
 @app.post("/package/", summary="Package Synth", description="Returns a zipped .synth file")
 async def package_synth(mp3: UploadFile = File(...), json: UploadFile = File(...), cover: UploadFile = File(None)):
     temp_dir = Path(tempfile.mkdtemp())
@@ -38,7 +37,7 @@ async def package_synth(mp3: UploadFile = File(...), json: UploadFile = File(...
     synth_dir = temp_dir / f"{base_name}_CustomMap"
     synth_dir.mkdir()
 
-    # Save .ogg (rename to .ogg if needed)
+    # Save .ogg
     ogg_path = synth_dir / f"{base_name}.ogg"
     with open(ogg_path, "wb") as f:
         f.write(await mp3.read())
@@ -49,17 +48,24 @@ async def package_synth(mp3: UploadFile = File(...), json: UploadFile = File(...
     with open(track_path, "wb") as f:
         f.write(json_data)
 
-    # ✅ Add compiled beatmap.meta.bin
-    meta_bin_path = synth_dir / "beatmap.meta.bin"
-    meta_bin = build_beatmap_meta_bin(track_path)
-    with open(meta_bin_path, "wb") as f:
-        f.write(meta_bin)
-
     # Optional cover image
+    cover_path = None
     if cover:
         cover_path = synth_dir / "cover.jpg"
         with open(cover_path, "wb") as f:
             f.write(await cover.read())
+
+    # ✅ Compile beatmap.meta.bin
+    meta_bin_path = synth_dir / "beatmap.meta.bin"
+    meta_bin = build_beatmap_meta_bin(
+        track_data_path=track_path,
+        cover_image_path=str(cover_path) if cover_path else "",
+        output_path=str(meta_bin_path),
+        song_name=base_name.replace("_", " "),
+        artist_name="Uploaded via SynthRiderz AI"
+    )
+    with open(meta_bin_path, "wb") as f:
+        f.write(meta_bin)
 
     # Add required meta file
     meta_path = synth_dir / "synthriderz.meta.json"
