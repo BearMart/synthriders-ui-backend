@@ -58,13 +58,13 @@ async def package_synth(mp3: UploadFile = File(...), json: UploadFile = File(...
     artist_name = "Uploaded via SynthRiderz AI"
     meta_bin_path = synth_dir / "beatmap.meta.bin"
     meta_bin = build_beatmap_meta_bin(
-        track_data_path=str(track_path),
+        track_json_path=str(track_path),
         cover_image_path=str(cover_path) if cover else "",
         output_path=str(meta_bin_path),
         song_name=song_name,
         artist_name=artist_name
     )
-    with open(meta_bin_path, "wb") as f:
+    with open(meta_bin_path, "w", encoding="utf-8-sig") as f:
         f.write(meta_bin)
 
     # Add required meta file
